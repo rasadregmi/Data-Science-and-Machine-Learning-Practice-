@@ -1,0 +1,12 @@
+Sign language is a visual language that enables individuals with hearing or speech impairments
+to communicate effectively. Nepali Sign Language (NSL), used widely in Nepal, is an essential
+means of communication for the deaf community. However, due to a lack of awareness and
+resources, NSL is not widely understood by the general population, leading to communication
+barriers.
+
+This project aims to develop a system that translates static gestures from Nepali Sign Language
+into text. By leveraging machine learning and computer vision techniques, the system processes
+hand gestures captured through a webcam and recognizes them using a trained model. The
+primary focus is on static gestures representing Nepali alphabets and selected common words.
+This tool seeks to promote inclusivity and accessibility, bridging the communication gap between
+the deaf community and the general population.
